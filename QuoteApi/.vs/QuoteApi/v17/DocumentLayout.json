@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\quoteapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\quoteapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\models\\quotetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\models\\quotetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|c:\\users\\giris\\onedrive - conestoga college\\bcs sem 6\\enterprise application development\\problem analysis 3\\quoteapi\\quoteapi\\migrations\\20250328132418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71675ECF-52FA-47EC-A37A-D3CFAF071126}|QuoteApi\\QuoteApi.csproj|solutionrelative:quoteapi\\migrations\\20250328132418_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "QuoteApi\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:29:41.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\appsettings.json",
+              "RelativeDocumentMoniker": "QuoteApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\appsettings.json",
+              "RelativeToolTip": "QuoteApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T13:18:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\AppDbContext.cs",
+              "RelativeToolTip": "QuoteApi\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:16:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Program.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Program.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Program.cs",
+              "RelativeToolTip": "QuoteApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:13:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "QuoteApi\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:26:38.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteTag.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\QuoteTag.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Models\\QuoteTag.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\QuoteTag.cs",
+              "RelativeToolTip": "QuoteApi\\Models\\QuoteTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:15:35.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\Tag.cs",
+              "RelativeToolTip": "QuoteApi\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:15:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuoteApi",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\QuoteApi.csproj",
+              "RelativeDocumentMoniker": "QuoteApi\\QuoteApi.csproj",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\QuoteApi.csproj",
+              "RelativeToolTip": "QuoteApi\\QuoteApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T13:46:38.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250328132418_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Migrations\\20250328132418_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Migrations\\20250328132418_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Migrations\\20250328132418_InitialCreate.cs",
+              "RelativeToolTip": "QuoteApi\\Migrations\\20250328132418_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:24:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "QuoteApi\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\giris\\OneDrive - Conestoga College\\BCS Sem 6\\Enterprise Application Development\\Problem Analysis 3\\QuoteApi\\QuoteApi\\Models\\Quote.cs",
+              "RelativeToolTip": "QuoteApi\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:14:40.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

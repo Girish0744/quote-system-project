@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quote App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Quote Manager</h1>
+
+    <section id="add-quote">
+        <h2>Add Quote</h2>
+        <input type="text" id="quote-content" placeholder="Quote content"><br>
+        <input type="text" id="quote-author" placeholder="Author (optional)"><br>
+        <button onclick="addQuote()">Add Quote</button>
+    </section>
+
+    <section id="quote-list">
+        <h2>All Quotes</h2>
+        <div id="quotes"></div>
+    </section>
+
+    <section id="filter-quotes">
+        <h2>Filter by Tag</h2>
+        <select id="tag-filter" onchange="filterQuotes()">
+            <option value="">-- Select a Tag --</option>
+        </select>
+        <button onclick="clearFilter()">Clear Filter</button>
+    </section>
+
+
+    <script src="app.js"></script>
+</body>
+</html>
