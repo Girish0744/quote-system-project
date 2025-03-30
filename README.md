@@ -1,5 +1,21 @@
 # quote-system-project
 
+## 👤 Author
+
+**Girish Bhuteja**  
+📧 [girishbhuteja07@gmail.com](mailto:girishbhuteja07@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/girishbhuteja0744)  
+
+---
+
+## 🎥 Video Demo
+
+Watch the full working demo here: [https://youtu.be/ZSL7VJKVFuw](https://youtu.be/ZSL7VJKVFuw)
+
+---
+
+## 📌 Overview
+
 A full-stack quote management system built with:
 
 - **ASP.NET Core Web API** – for backend API functionality  
@@ -73,13 +89,4 @@ python main.py
 
 ---
 
-## 🎥 Video Demo
-
-
----
-
-## 📌 Author
-
-**Girish**  
-Assignment 3 – Enterprise Application Development  
-Conestoga College – BCS Sem 6
+Feel free to ⭐ the repo if you liked it!
